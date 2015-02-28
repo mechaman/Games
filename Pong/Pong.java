@@ -1,4 +1,4 @@
-/** Author: Mechaman
+/** Author: Julien Hoachuck
 * GAME: Simple Pong
 **/
 
